@@ -1,4 +1,4 @@
 # SegundaApp
  Video: https://youtu.be/kKlkSkIJwNc
-Validación de campos: email, edad, combobox
-Manejo de: spinner
+<br>Validación de campos: email, edad, combobox
+<br>Manejo de: spinner
